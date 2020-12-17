@@ -1,2 +1,2 @@
-from: 
-yyds!!
+server:
+    port: 9000
