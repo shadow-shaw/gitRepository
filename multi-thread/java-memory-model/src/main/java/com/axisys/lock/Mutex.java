@@ -8,7 +8,7 @@ import java.util.concurrent.locks.Lock;
 /**
  * @program: multi-thread
  * @description: 自定义实现一个锁。通过实现Lock接口实现锁的获取与释放，以及通过静态内部类继承AQS(同步器)，加锁与释放锁
- * 底层还是使用了AQS来进行具体的实现。xx
+ * 底层还是使用了AQS来进行具体的实现。
  * @author: shaw
  * @create: 2021-02-03 10:46
  **/
